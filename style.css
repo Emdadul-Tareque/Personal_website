@@ -35,7 +35,7 @@ h2{
 
 
 .half-width img{
-    width: 80%;
+    width: 120%;
 } 
 
 .link-button{
@@ -55,15 +55,21 @@ h2{
 
 .Middle-part{
     background-image: url("images/biography-bg.png");
-    background-position: 30%;
+    background-position: left;
 }
 .Last-Part{
     background-image: url("images/latest-work-bg.png");
-    background-position: 80%;
+    background-position: left;
 }
 .Footer-Part{
     background-image: url("images/footer-bg.png");
-    background-position: 50%;
+    background-position: left;
+}
+
+.experience-area{
+    background-image: url('images/exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 .Picture-width img{
@@ -80,6 +86,8 @@ h2{
 
 .footer{
     text-align: center;
+    bottom: 20px;
+    
        
 }
 .mail{
@@ -97,7 +105,27 @@ h2{
 .single-experience{
     box-shadow: 10px 10px 40px gray ;
     border-radius: 5px;
-    height: 80px;
-    float: left;
+    height: 50%;
+    width: 35%;
 
+}
+.orange-heighlight{
+    color: orange ;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightSalmon , tomato);
+    border-image-slice: 1;
+}
+
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,Blue ,cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
