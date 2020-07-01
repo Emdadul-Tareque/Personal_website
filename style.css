@@ -21,9 +21,6 @@ h2{
     padding: 50px;
     width: 40%;
     float: left;
-    
-    
-
 } 
 
 a:hover{
@@ -55,7 +52,7 @@ a:hover{
 
 .Upper-part{
     background-image: url("images/header-bg.png");
-    background-position: 40%;
+    background-position: left;
 }
 
 .Middle-part{
