@@ -21,16 +21,21 @@ h2{
     padding: 50px;
     width: 40%;
     float: left;
-    padding-left: 2%;
+    
+    
 
 } 
+
+a:hover{
+    font-size: 120%;
+}
 
 .Text-Part{
     padding: 180px;
     width: 30%;
     float: left;
-    margin-left: 4%;
-    padding-left: 2%;
+    padding-left: 10%;
+    
 }
 
 
@@ -87,8 +92,8 @@ h2{
 .footer{
     text-align: center;
     bottom: 20px;
-    
-       
+    margin: 100px 100 px;
+          
 }
 .mail{
     border: 10px solid;
