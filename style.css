@@ -6,6 +6,7 @@ body{
 section{
     height: 500px;
     padding-bottom: 200px;
+    padding-right: 50px;
 }
 h1{
     font-size: 40px;
@@ -20,7 +21,6 @@ h2{
     padding: 50px;
     width: 40%;
     float: left;
-    margin-left: 5%;
     padding-left: 2%;
 
 } 
@@ -35,12 +35,12 @@ h2{
 
 
 .half-width img{
-    width: 120%;
+    width: 110%;
 } 
 
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg,lightSalmon , tomato);
+    background-image: linear-gradient(45deg, rgb(156, 127, 132) , tomato);
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
@@ -75,7 +75,7 @@ h2{
 .Picture-width img{
     width: 25%;
     float: left;
-    margin-left: 5%;
+    margin-left: 7%;
     padding-left: 0%;
 
 }
@@ -107,6 +107,7 @@ h2{
     border-radius: 5px;
     height: 50%;
     width: 35%;
+    margin-left: 100px;
 
 }
 .orange-heighlight{
@@ -129,3 +130,5 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
+
