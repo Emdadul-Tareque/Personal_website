@@ -78,7 +78,7 @@ a:hover{
     width: 25%;
     float: left;
     margin-left: 7%;
-    padding-left: 0%;
+    
 
 }
 .header{
@@ -88,9 +88,10 @@ a:hover{
 
 .footer{
     text-align: center;
-    bottom: 20px;
     margin: 100px 100 px;
-          
+    width: 50%;
+    height: 50px;
+    margin-left: 27%;
 }
 .mail{
     border: 10px solid;
@@ -108,8 +109,9 @@ a:hover{
     box-shadow: 10px 10px 40px gray ;
     border-radius: 5px;
     height: 50%;
-    width: 35%;
-    margin-left: 100px;
+    width: 33%;
+    margin-left: 90px;
+   
 
 }
 .orange-heighlight{
